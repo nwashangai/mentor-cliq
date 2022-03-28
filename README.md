@@ -11,6 +11,7 @@ From your terminal
 3. run `npm install` 
 4. run `npm run dev` 
 
-open `http://localhost:3000` on browser
+open `http://localhost:3000` on browser <br/>
+login ->  email: `user@gmail.com`, password: `12345`
 
 <i>Note:</i> This is currently only verified on Linux environment
